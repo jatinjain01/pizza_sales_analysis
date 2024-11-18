@@ -1,0 +1,1 @@
+Utilized SQL to analyze Pizza Hut's sales data, calculating total orders, revenue, and identifying popular pizza types. Key insights included determining the most common pizza sizes, top-selling categories, and revenue contributions by pizza type.
